@@ -1,4 +1,4 @@
 # pythondemo
 This is my first repository 
 <br>
-Author- Anjana Modi
+Author- Anjana Modi (demo lecture)
